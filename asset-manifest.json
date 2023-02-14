@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ABPdecoder/static/css/main.ecc9bce6.css",
+    "main.js": "/ABPdecoder/static/js/main.c2ce4f23.js",
+    "index.html": "/ABPdecoder/index.html",
+    "main.ecc9bce6.css.map": "/ABPdecoder/static/css/main.ecc9bce6.css.map",
+    "main.c2ce4f23.js.map": "/ABPdecoder/static/js/main.c2ce4f23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc9bce6.css",
+    "static/js/main.c2ce4f23.js"
+  ]
+}
